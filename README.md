@@ -15,5 +15,39 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=buvnswrn&count_private=true&show_icons=false&theme=default" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buvnswrn&hide=jupyter%20notebook,ASP,C%23&theme=default&show_icons=true" />
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=buvnswrn&count_private=true&show_icons=false&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=buvnswrn&count_private=true&show_icons=false&theme=default"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=buvnswrn&show_icons=false" />
+</picture>
+<!-- <picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=buvnswrn&hide=jupyter%20notebook,ASP,C%23&theme=dark&show_icons=true"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=buvnswrn&hide=jupyter%20notebook,ASP,C%23&theme=default&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=buvnswrn&show_icons=false" />
+</picture> -->
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=buvnswrn&count_private=true&show_icons=false&theme=default" /> -->
+<!-- <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=buvnswrn&theme=dark&hide=jupyter%20notebook,ASP,C%23&show_icons=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=buvnswrn&theme=default&hide=jupyter%20notebook,ASP,C%23&show_icons=true"
+    media="(prefers-color-scheme: light)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buvnswrn&hide=jupyter%20notebook,ASP,C%23&show_icons=true"/>
+</picture>   -->
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buvnswrn&hide=jupyter%20notebook,ASP,C%23&theme=transparent&show_icons=true" />
+
