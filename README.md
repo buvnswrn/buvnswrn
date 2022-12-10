@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋, It's Bhuvaneshwaran Ilanthirayan <sup> <a href="https://twitter.com/bhuvan_nav"><img width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg"/></a> <a href="https://www.linkedin.com/in/buvnswrn/"><img width="65px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> </sup>
+I am a graduate student at [Saarland Informatics Campus](https://saarland-informatics-campus.de/en/) in [Universität des Saarlandes (UdS)](https://www.uni-saarland.de/start.html) and a Graduate Research Assistant at [Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)](https://www.dfki.de/web)<!--[![Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)](https://www.dfki.de/fileadmin/user_upload/DFKI/Medien/Logos/Logos_DFKI/DFKI_Logo.png?style=)](https://www.dfki.de/web)-->. Here on GitHub you can find some projects i did during my studies and spare time.
 
 <!--
 **buvnswrn/buvnswrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=buvnswrn&count_private=true&show_icons=false&theme=default" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buvnswrn&hide=jupyter%20notebook,ASP,C%23&theme=default&show_icons=true" />
