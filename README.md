@@ -49,7 +49,7 @@ Here are some ideas to get you started:
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buvnswrn&hide=jupyter%20notebook,ASP,C%23&show_icons=true"/>
 </picture>   -->
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buvnswrn&hide=jupyter%20notebook,ASP,C%23&theme=transparent&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buvnswrn&hide=jupyter%20notebook,ASP.Net,ASP,C%23&theme=transparent&show_icons=true" />
 
 
 <!-- [![bhuvan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bhuvan)](https://github.com/anuraghazra/github-readme-stats) -->
